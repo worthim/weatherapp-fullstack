@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+}
+
+
+
+#title{
+    text-align: center;
+}
+
+.titles  {
+position: column;
+display: flex;
+color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+}
